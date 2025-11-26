@@ -265,7 +265,7 @@ OpenAI for AI/ML capabilities
 Website: imifugo.com
 Email: info@imifugo.com
 Twitter: @iMifugo
-WhatsApp: +254XXX XXX XXX
+WhatsApp: +254705564977
 🏆 Hackathon Submission
 Event: [Hackathon Name]
 Track: AI/Agriculture/Social Impact
